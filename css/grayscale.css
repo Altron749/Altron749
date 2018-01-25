@@ -198,6 +198,12 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.video-section {
+  background-color: #4D4D4D;  
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
 #map {
   width: 100%;
   height: 300px;
